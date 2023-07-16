@@ -1,0 +1,32 @@
+{
+  "name": "Discord-Bot-Kanye-West-Quotes",
+  "version": "1.0.0",
+  "description": "Discord-Bot-Kanye-West-Quotes",
+  "main": "kanye.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lane-G-Smith/Discord-Bot-Kanye-West-Quotes.git"
+  },
+  "keywords": [
+    "Discord",
+    "Bot",
+    "Javascript",
+    "Discord.js",
+    "rest API"
+  ],
+  "author": "Lane G Smith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lane-G-Smith/Discord-Bot-Kanye-West-Quotes/issues"
+  },
+  "homepage": "https://github.com/Lane-G-Smith/Discord-Bot-Kanye-West-Quotes#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3",
+    "node": "^19.6.1",
+    "openai": "^3.2.1"
+  }
+}
