@@ -1,7 +1,7 @@
 {
   "name": "Discord-Bot-Kanye-West-Quotes",
   "version": "1.0.0",
-  "description": "Discord-Bot-Kanye-West-Quotes",
+  "description": "Discord bot that posts Kanye West quotes in chat whenever Kanye is mentioned",
   "main": "kanye.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -26,7 +26,6 @@
   "dependencies": {
     "discord.js": "^14.7.1",
     "dotenv": "^16.0.3",
-    "node": "^19.6.1",
-    "openai": "^3.2.1"
+    "node": "^19.6.1"
   }
 }
