@@ -39,11 +39,11 @@ https://git-scm.com/downloads
 ```sh
 git init
 ```
-### Navigate to new git folder in terminal and clone this repository
+### Navigate to the new git folder in the terminal and clone this repository
 ```sh
-https://github.com/Lane-G-Smith/Discord-Bot-GigaChad.git
+https://github.com/Lane-G-Smith/Discord-Bot-Kanye-West-Quotes.git
 ```
-### Navigate to Discord-Bot-GigaChad folder and install dependencies
+### Navigate to Discord-Bot-Kanye-West-Quotes folder and install dependencies
 ```sh
 npm install
 ```
