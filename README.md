@@ -2,14 +2,14 @@
 <table align="center">
   <tr>
     <td align="center" height="108" width="108">
-        <img     src="https://avatars.githubusercontent.com/u/102753505?s=200&v=4"
+        <img     src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvrC8Oi57vadxpfhVLgAPPaS9vwXzn38aAjQ&usqp=CAU"
         width="60"
         height="60"
         />
         <br /><strong>Discord.js</strong>
     </td>
     <td align="center" height="108">
-      <p align="center">A simple vanilla javascript Discord bot that posts quotes from Kanye West when called on. Uses the GPT3.5-Turbo-0613 LLM. Responds to chat whenever someone types "Kanye"
+      <p align="center">A simple vanilla javascript Discord bot that posts quotes from Kanye West when called on using the rest API from https://github.com/ajzbc/kanye.rest. Responds to chat whenever someone types "Kanye"
       </p>
      </td>
    </tr>
