@@ -23,10 +23,6 @@
 ```sh
 https://discord.com/developers/applications
 ```
-### Go to OpenAI and open an account
-```sh
-https://platform.openai.com/signup
-```
 ### Install node.js
 ```sh
 https://nodejs.org/en/
@@ -51,10 +47,6 @@ npm install
 ### Place your secret Discord bot token from the first step into the .env file
 ```sh
 TOKEN=your_unique_Discord_bot_token_here
-```
-### Place your secret OpenAI API key from the second step into the .env file
-```sh
-OPENAI_API_KEY=your_unique_OpenAI_API_key_here
 ```
 ### To host the bot locally, open the project in the terminal and run node
 ```sh
